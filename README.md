@@ -26,5 +26,9 @@ O arquivo `.pbix` do Power BI pode ser baixado pelo link abaixo.
 
 🔗 (https://drive.google.com/file/d/1O1RQBO4fKQyytiZldEGS2-on0s2IHbl8/view?usp=sharing)
 
+(https://drive.google.com/file/d/1O1RQBO4fKQyytiZldEGS2-on0s2IHbl8/view?usp=drive_link)
+
+
 📌 Autor
-🚀 Desenvolvido por Denyse Vessio como parte de Power BI da EBAC
+
+🚀 Desenvolvido por Denyse Vessio como parte do curso de Power BI da EBAC
