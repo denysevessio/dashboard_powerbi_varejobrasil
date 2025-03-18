@@ -20,10 +20,11 @@ Este dashboard foi desenvolvido como parte do curso de Power BI da EBAC. O objet
 🔹 ![image](https://github.com/user-attachments/assets/a6b3bb7f-57b8-4235-a06f-608ef705b89e)
 
 
-📌 Como Abrir o Projeto
-1️⃣ Faça o download do arquivo Grupo Varejo Brasil.pbix
-2️⃣ Abra o arquivo no Power BI Desktop
-3️⃣ Explore as visualizações e interações no dashboard
+📌 **Download do dashboard**  
+O arquivo `.pbix` do Power BI pode ser baixado pelo link abaixo.  
+**Obs:** Como o arquivo é maior que 100MB, o Google Drive mostrará um aviso de que não pode verificar vírus. Isso é normal e o download pode ser feito sem problemas.  
+
+🔗 (https://drive.google.com/file/d/1O1RQBO4fKQyytiZldEGS2-on0s2IHbl8/view?usp=sharing)
 
 📌 Autor
 🚀 Desenvolvido por Denyse Vessio como parte de Power BI da EBAC
