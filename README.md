@@ -21,5 +21,5 @@ Este dashboard foi desenvolvido como parte do curso de Power BI da EBAC. O objet
 O arquivo `.pbix` do Power BI pode ser baixado pelo link abaixo.  
 **Observação:** Como o arquivo tem mais de 100MB, o Google Drive pode exibir um aviso de que não é possível visualizá-lo diretamente, mas o download funciona normalmente.
 
-🔗 Acesse o dashboard aqui: [Visualizar no Power BI (Google Drive)](https://drive.google.com/file/d/SEU_ID_DE_ARQUIVO/view?usp=sharing)
+🔗 Acesse o dashboard aqui: https://drive.google.com/file/d/1BFpe8445E27SwAmTv4uYZyWXVuvQoKNN/view?usp=sharing 
 
